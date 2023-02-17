@@ -4,7 +4,8 @@
 View full version presentation in [PDF]()
 
 ## Task
-Google is my dream company. I believe lots of data analyst want to join Google, just like me. I wonder what will it require to work in Google.
+Google is my dream company. I believe lots of data analyst want to join Google, just like me. I wonder what will it require to work in Google?
+
 ## Data Source
 Google Jobs information from [Google Careers](https://careers.google.com/jobs/results/)
 
