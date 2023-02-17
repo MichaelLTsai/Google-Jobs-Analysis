@@ -15,7 +15,7 @@ Google Jobs information from [Google Careers](https://careers.google.com/jobs/re
 -- Python matplotlib, seaborn for visualization on Kaggle -View [Notebook](https://www.kaggle.com/code/michaelltsai/way-to-google-get-a-job-in-goggle-word-cloud/edit)
 
 ## Data Process
-![image](https://user-images.githubusercontent.com/108915606/219756889-d0a93ad9-e1ca-4ed6-b8f7-5ac6f1763fba.png)
+![image](https://user-images.githubusercontent.com/108915606/219758875-b755e2a2-e244-4188-9f61-07188b82d36e.png)
 
 ## Dashboard on Kaggle
 ![image](https://user-images.githubusercontent.com/108915606/219757058-3e47bd32-34d6-4afe-97b1-428be3dd4835.png)
