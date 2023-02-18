@@ -1,7 +1,7 @@
 ![google-building2](https://user-images.githubusercontent.com/108915606/219754236-a2a2a208-d73e-4397-84e2-9695ab948d74.png)
 
 # Google-Jobs-Analysis
-View full version presentation in [PDF](https://github.com/MichaelLTsai/Google-Jobs-Analysis/blob/6da6d62c12eb55bea5a7374c167d8651106e26d8/Presentation%20Google%20Jobs%20Analysis.pdf)
+View full version presentation in [PDF](https://github.com/MichaelLTsai/Google-Jobs-Analysis/blob/e97ba4a7a1d0e2ef3920daffb2f04d31b317d04f/Presentation%20Google%20Jobs%20Analysis.pdf)
 
 ## Task
 Google is my dream company. I believe lots of data analyst want to join Google, just like me. I wonder what will it require to work in Google?
