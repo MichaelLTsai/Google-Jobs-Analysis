@@ -3,17 +3,23 @@
 # Google-Jobs-Analysis
 View full version presentation in [PDF](https://github.com/MichaelLTsai/Google-Jobs-Analysis/blob/e97ba4a7a1d0e2ef3920daffb2f04d31b317d04f/Presentation%20Google%20Jobs%20Analysis.pdf)
 
-## Task
+## Purpose
 Google is my dream company. I believe lots of data analyst want to join Google, just like me. I wonder what will it require to work in Google?
 
+## Questions/Tasks
+- What Programming languages does Google request the most?
+- What about the requirement for degrees?
+- Does work experience important? If so, how many years work experience is generally required?
+- What is the most popular job type in Google now?
+
+
 ## Data Source
-Google Jobs information from [Google Careers](https://careers.google.com/jobs/results/) - View [Dataset](https://github.com/MichaelLTsai/Google-Jobs-Analysis/blob/0f4c503d1381171f43be82bd132c54f41f237c5d/Dataset_Google_Job_Scrap_2023-01-21.csv)
+Google Jobs information from [Google Careers](https://careers.google.com/jobs/results/) - View [Downloaded Dataset](https://github.com/MichaelLTsai/Google-Jobs-Analysis/blob/0f4c503d1381171f43be82bd132c54f41f237c5d/Dataset_Google_Job_Scrap_2023-01-21.csv)
   
 ## Data Tools
--- Python Selenium for web scraping - View [Script](https://github.com/MichaelLTsai/Google-Jobs-Analysis/blob/6da6d62c12eb55bea5a7374c167d8651106e26d8/Way%20to%20Google.py)
-  
--- Python pandas, matplotlib, seaborn for data cleaning & data processing on Kaggle. -View [Notebook](https://www.kaggle.com/code/michaelltsai/way-to-google-get-a-job-in-goggle-word-cloud/edit)
--- Python matplotlib, seaborn for visualization on Kaggle -View [Notebook](https://www.kaggle.com/code/michaelltsai/way-to-google-get-a-job-in-goggle-word-cloud/edit)
+- Python Selenium for web scraping - View [Script](https://github.com/MichaelLTsai/Google-Jobs-Analysis/blob/6da6d62c12eb55bea5a7374c167d8651106e26d8/Way%20to%20Google.py)
+- Python pandas, matplotlib, seaborn for data cleaning & data processing on Kaggle. -View [Notebook](https://www.kaggle.com/code/michaelltsai/way-to-google-get-a-job-in-goggle-word-cloud/edit)  
+- Python matplotlib, seaborn for visualization on Kaggle -View [Notebook](https://www.kaggle.com/code/michaelltsai/way-to-google-get-a-job-in-goggle-word-cloud/edit)
   
 ## Data Process
 ![image](https://user-images.githubusercontent.com/108915606/219758875-b755e2a2-e244-4188-9f61-07188b82d36e.png)
@@ -26,8 +32,9 @@ If you have furhter question, suggestion, job opportunity or just want to chat, 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/michael-tsai-37b8b2136/)
 [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> ](https://public.tableau.com/app/profile/michael.tsai7198)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /> ](https://www.kaggle.com/michaelltsai)
-
-
+  
+  
+*View full version presentation in [PDF](https://github.com/MichaelLTsai/Google-Jobs-Analysis/blob/e97ba4a7a1d0e2ef3920daffb2f04d31b317d04f/Presentation%20Google%20Jobs%20Analysis.pdf)
 
 
 
